@@ -1,0 +1,14 @@
+:host {
+
+  .task-5-container {
+
+    --background-color: red;
+    --font-color: black;
+
+    select {
+      background-color: var(--background-color);
+      color: var(--font-color);
+    }
+  }
+
+}
